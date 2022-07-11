@@ -1,4 +1,7 @@
 {
+  "r_scba": 2.2,
+  "r_grab": 2.0,
+  "r_pepperspray": 1.4,
   "r_megaphone": 1.9,
   "r_hbucket": 1.1,
   "r_hrescue": 1.0
